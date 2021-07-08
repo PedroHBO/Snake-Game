@@ -1,4 +1,4 @@
-# :rocket: Netflix
+# :rocket: Snake-Game
 ### Fala Dev, tudo bem? :v: 
 
 <p align="justify">Usando como base do Bootcamp de HTML Web Developer, na Digital Innovation One no curso da Gabriela Pinheiro "Recriando o jogo da cobrinha com JavaScript". 
