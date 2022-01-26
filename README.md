@@ -14,4 +14,4 @@ https://user-images.githubusercontent.com/66649954/119740894-13e4df80-be5b-11eb-
 
 *Obs³: A segunda pausa foi devivo a cobra encostar na outra, só que como coloquei como um alert não apareceu, aparecia "GAME OVER"*
 
-**Lets Bora!**
+**Avante DEV!**
